@@ -3,3 +3,6 @@
 /com.storeapp.order/bin/*
 /com.storeapp.invoice/bin/*
 /com.storeapp.product/bin/*
+/.metadata/
+/com.storeapp.service/bin/*
+.*
