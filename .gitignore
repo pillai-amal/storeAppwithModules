@@ -1,0 +1,5 @@
+.DS_Store
+/com.storeapp.client/bin/*
+/com.storeapp.order/bin/*
+/com.storeapp.invoice/bin/*
+/com.storeapp.product/bin/*
